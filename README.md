@@ -6,4 +6,4 @@ Built with React.
 
 https://animal-tracks.onrender.com/
 
-Created by Alexis in March 2024
+Created by Alexis-3000 in March 2024
